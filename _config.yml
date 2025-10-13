@@ -24,8 +24,8 @@ author:
   name             : "Dongzhu Xu (徐冬竹)"
   avatar           : "images/dongzhu_profile.jpg"
   bio              : ""
-  location         : "Beijing"
-  employer         : "BUPT"
+  location         :
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2FngQjYAAAAJ&hl=zh-CN"
   email            : "xudongzhu@bupt.edu.cn"
