@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dongzhu Xu (徐冬竹)"
-description              : "Focusing on Internet of Things, wireless networking and system, and mobile computing."
+description              : "Focusing on wireless networking and system, mobile computing, and time-sensitive networking."
 repository               : "DongzhuXu/DongzhuXu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/dongzhu_profile.jpg"
   bio              : ""
   location         : "Beijing"
-  employer         : "Beijing University of Posts and Telecommunications"
+  employer         : "BUPT"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2FngQjYAAAAJ&hl=zh-CN"
   email            : "xudongzhu@bupt.edu.cn"
