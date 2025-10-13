@@ -1,8 +1,6 @@
 # 🔥 News
 
-**[Recruitment]** I am now looking for self-motivated Master and undergraduate students to work on research projects in **wireless networking system and application** and **millimeter-wave intelligent sensing**. If you are seeking any form of **academic cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
-
-
+**==[Recruitment]==** I am now looking for self-motivated Master and undergraduate students to work on research projects in **wireless networking system and application** and **millimeter-wave intelligent sensing**. If you are seeking any form of **academic cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
 
 * *2025.10*: Invited to serve on the reviewer of ICASSP 2026
 
