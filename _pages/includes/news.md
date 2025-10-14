@@ -2,8 +2,6 @@
 
 **[Recruitment]** I am now looking for self-motivated Master and undergraduate students to work on research projects in **wireless networking system and application** (e.g., 5G/6G network optimization, video analytics system, and visual navigation and positioning system) and **millimeter-wave intelligent sensing in dedicated medical scenario** (e.g., personnel behavior monitoring, human emotion detection, abnormal heartbeat detection).&#x20;
 
-
-
 If you are seeking any form of **academic or business cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
 
 * *2025.10*: Invited to serve on the reviewer of IEEE ICASSP 2026
@@ -14,9 +12,9 @@ If you are seeking any form of **academic or business cooperation**, please feel
 
 * *2025.02*: 🎉 Our paper "Sonata" was accepted by **IEEE Transactions on Networking**!
 
-* 2024.08*: Invited to serve on the reviewer of IEEE ICPADS 2024
+* *2024.08*: Invited to serve on the reviewer of IEEE ICPADS 2024
 
-* 2022.12: 🎉 Our paper "e-mmRanger" on the millimeter-wave sensing and environment mapping was accepted by **IEEE Transactions on Wireless Communications**!
+* *2022.12*: 🎉 Our paper "e-mmRanger" on the millimeter-wave sensing and environment mapping was accepted by **IEEE Transactions on Wireless Communications**!
 
 * *2022.11*: 🎉 Our paper "Octopus" on the edge intelligence enhancement for accessible 5G networks was accepted by **IEEE/ACM Transactions on Networking**!
 
