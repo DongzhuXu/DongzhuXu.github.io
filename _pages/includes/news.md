@@ -1,8 +1,8 @@
 # 🔥 News
 
-**[Recruitment]** I am now looking for self-motivated Master and undergraduate students to work on research projects in **wireless networking system and application** (e.g., 5G/6G network optimization, video analytics system, and visual navigation and positioning system) and **millimeter-wave intelligent sensing in dedicated medical scenario** (e.g., personnel behavior monitoring, human emotion detection, abnormal heartbeat detection).&#x20;
+**[Recruitment]** I am now looking for self-motivated Master and undergraduate students to work on research projects in **wireless networking system and application** (e.g., 5G/6G network optimization, video analytics system, and visual navigation and positioning system) and **millimeter-wave intelligent sensing in dedicated medical scenario** (e.g., personnel behavior monitoring, human emotion detection, and abnormal heartbeat detection).&#x20;
 
-If you are seeking any form of **academic or business cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
+If you are seeking any form of **academic cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
 
 * *2025.10*: Invited to serve on the reviewer of IEEE ICASSP 2026
 
