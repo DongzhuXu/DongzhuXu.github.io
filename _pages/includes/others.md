@@ -6,8 +6,6 @@
 
 * *2011.09 - 2014.06*, Yantai No. 1 Middle School of Shandong, Shandong.
 
-*
-
 # 📚Professional Activities
 
 #### TPC Member
@@ -22,5 +20,5 @@
 
 # 💻 Internships
 
-* *2020.11 - 2021.04*, Damo institute, Alibaba, Hangzhou
+* *2020.11 - 2021.08*, Damo Academy, Alibaba, Hangzhou
 
