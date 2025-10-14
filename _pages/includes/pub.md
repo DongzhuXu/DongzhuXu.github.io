@@ -14,6 +14,12 @@
 
 * `SECON 2020` Yi Yang, Anfu Zhou, **Dongzhu Xu**, Shaoyuan Yang, Lele Wu, Huadong Ma, Teng Wei, Jianhua Liu. [mmMuxing: Pushing the Limit of Spatial Reuse in Directional Millimeter-wave Wireless Networks](https://ieeexplore.ieee.org/document/9158423). ***IEEE SECON*** 2020: 1-9
 
+* `计算机研究与发展 2024` **徐冬竹**,周安福,马华东,张园. [基于连续学习的视频物联网任务需求理解与调度方法](https://cstj.cqvip.com/Qikan/Article/Detail?id=7113306934)[J]. 计算机研究与发展,2024,61(11):2793-2805
+
+* `CWSN 2023` **徐冬竹**,李聪慧,周安福,马华东. 面向视频物联的5G算力网络切片方法与实现[C]. 中国物联网学术会议(CWSN 2023)
+
+* `CWSN 2020` **徐冬竹**,刘曦,周安福,刘亮,马华东. 基于动态RRC状态机的5G终端能耗优化方法研究[C]. 中国物联网学术会议(CWSN 2020)
+
 ## 📚 Mobile Computing
 
 * `TWC 2023` **Dongzhu Xu**, Anfu Zhou, Yi Yang, Huadong Ma. [Efficient Environment Mapping Using a Commodity Millimeter-Wave Robot](https://ieeexplore.ieee.org/document/9997565). ***IEEE Transactions on Wireless Communication*** 22(7): 4858-4872 (2023)
