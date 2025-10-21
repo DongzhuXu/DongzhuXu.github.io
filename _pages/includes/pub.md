@@ -28,5 +28,7 @@
 
 ## 📚 Time-Sensitive Networking
 
-* `CWSN 2025` Yangyang Yu, **Dongzhu Xu**, Anfu Zhou, Huadong Ma. Reconciling the Burst Traffic and Sluggish Resource Response between Application-layer and MAC-layer for In-Vehicle Video Streaming[C]. *CWSN* 2025
+* `CWSN 2025` Yangyang Yu, **Dongzhu Xu**, Anfu Zhou, Huadong Ma. Reconciling the Burst Traffic and Sluggish Resource Response between Application-layer and MAC-layer for In-Vehicle Video Streaming. *CWSN* 2025
+
+* `ICCC 2024` Conghui Li, **Dongzhu Xu**, Anfu Zhou. [Multi-Step Online Scheduling to Improve Schedulability for In-Vehicle Time-Sensitive Networking](https://ieeexplore.ieee.org/document/10941788). IEEE ICCC 2024
 
