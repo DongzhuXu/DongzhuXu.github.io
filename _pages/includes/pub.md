@@ -2,7 +2,7 @@
 
 ## 📚 Wireless Networking and System
 
-* `ToN 2025` **Dongzhu Xu**, Rui Lin, Huanhuan Zhang, Anfu Zhou, Huadong Ma. [Bridging Cross-Layer Interactions Between 5G RAN and MEC for Latency-Critical Video Analytics](https://ieeexplore.ieee.org/document/10909596) ***IEEE Transactions on Networking*** 33(4): 1614-1629 (2025)
+* `ToN 2025` **Dongzhu Xu**, Rui Lin, Huanhuan Zhang, Anfu Zhou, Huadong Ma. [Bridging Cross-Layer Interactions Between 5G RAN and MEC for Latency-Critical Video Analytics](https://ieeexplore.ieee.org/document/10909596). ***IEEE Transactions on Networking*** 33(4): 1614-1629 (2025)
 
 * `ToN 2023` Congkai An, Anfu Zhou, Jialiang Pei, Xi Liu, **Dongzhu Xu**, Liang Liu, Huadong Ma. [Octopus: Exploiting the Edge Intelligence for Accessible 5G Mobile Performance Enhancement](https://ieeexplore.ieee.org/document/9998491). ***IEEE/ACM Transactions on Networking*** 31(6): 2454-2469 (2023)
 
@@ -14,7 +14,7 @@
 
 * `SECON 2020` Yi Yang, Anfu Zhou, **Dongzhu Xu**, Shaoyuan Yang, Lele Wu, Huadong Ma, Teng Wei, Jianhua Liu. [mmMuxing: Pushing the Limit of Spatial Reuse in Directional Millimeter-wave Wireless Networks](https://ieeexplore.ieee.org/document/9158423). ***IEEE SECON*** 2020: 1-9
 
-* `计算机研究与发展 2024` **徐冬竹**,周安福,马华东,张园. [基于连续学习的视频物联网任务需求理解与调度方法](https://cstj.cqvip.com/Qikan/Article/Detail?id=7113306934)[J]. 计算机研究与发展,2024,61(11):2793-2805
+* `计算机研究与发展 2024` **徐冬竹**,周安福,马华东,张园. [基于连续学习的视频物联网任务需求理解与调度方法](https://d.wanfangdata.com.cn/periodical/jsjyjyfz202411011)[J]. 计算机研究与发展,2024,61(11):2793-2805
 
 * `CWSN 2023` **徐冬竹**,李聪慧,周安福,马华东. 面向视频物联的5G算力网络切片方法与实现[C]. 中国物联网学术会议(CWSN 2023)
 
