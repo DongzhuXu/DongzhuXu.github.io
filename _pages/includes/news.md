@@ -14,10 +14,6 @@ If you are seeking any form of **academic cooperation**, please feel free to ema
 
 * *2025.12*: 🎉 入选CCF博士学位论文激励计划（全国10位）
 
-* *2025.10*: Invited to serve on the reviewer of IEEE ICASSP 2026
-
-* *2025.09*: Invited to serve on the reviewer of IEEE ICPADS 2025
-
 * *2025.08*: 🎉 Our paper "T-reSoNator" on the cross-layer protocol designs for event-triggered streams in vehicular networks was accepted by CWSN 2025!
 
 * *2025.02*: 🎉 Our paper "Sonata" was accepted by **IEEE Transactions on Networking**!

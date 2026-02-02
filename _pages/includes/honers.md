@@ -20,5 +20,3 @@
 
 * *2021.12:* 获得National Scholarship for Doctoral Students（教育部博士研究生国家奖学金）
 
-* *2018.06:* 获得The Outstanding Graduates of Shandong Province (山东省优秀毕业生)
-
