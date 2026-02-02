@@ -2,11 +2,11 @@
 
 **🔥🔥[Recruitment]🔥🔥** I am now looking for self-motivated Master and undergraduate students to work on research projects in&#x20;
 
-* **Wireless networking system and application** (e.g., 5G/6G network optimization, video analytics system, and visual navigation and positioning system);
+* **Networking system and application**, e.g., network measurement, AI for 5G/6G network autonomy, video analytics, V2X, time-sensitive networking;
 
-* **AI-native harware** (e.g., wearable headphones and sensors);
+* **AI-native harware**, e.g., wearable multimodal sensors for LLM agent systems;
 
-* **Millimeter-wave intelligent sensing in dedicated medical scenario** (e.g., personnel behavior monitoring, human emotion detection, and abnormal heartbeat/thoracic cavity vibration detection).
+* **Millimeter-wave intelligent sensing in dedicated medical scenario**, e.g., personnel behavior monitoring, human emotion detection, and abnormal heartbeat/thoracic cavity vibration detection.
 
 If you are seeking any form of **academic cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
 
