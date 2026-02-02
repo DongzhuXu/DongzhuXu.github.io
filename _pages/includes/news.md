@@ -4,7 +4,9 @@
 
 If you are seeking any form of **academic cooperation**, please feel free to email me at [xudongzhu@bupt.edu.cn](mailto:xudongzhu@bupt.edu.cn). We are hiring interns!
 
-***
+* *2026.1*: 🎉 Our paper "Mobi2Still", which utilizes mobile human-equipped millimeter wave (mmWave) radars for people detection and tracking was accepted by **IEEE Transactions on Mobile Computing**! The core idea is to match recurring environment information across different times to estimate radar motion in reverse, and based on this, enable accurate people detection and tracking.
+
+* *2025.12*: 🎉 入选CCF博士学位论文激励计划（全国10位）
 
 * *2025.10*: Invited to serve on the reviewer of IEEE ICASSP 2026
 

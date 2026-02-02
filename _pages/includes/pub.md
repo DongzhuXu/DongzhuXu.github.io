@@ -22,6 +22,8 @@
 
 ## 📚 Mobile Computing
 
+* `TMC 2026` Yaxuan Li, **Dongzhu Xu**, Kun Liang, Hongli Zeng, Luming Xu, Huadong Ma. [Mobi2Still: People Detection and Tracking with Mobile Human-equipped mmWave Radars](https://ieeexplore.ieee.org/abstract/document/11359554). ***IEEE Transactions on Mobile Computing*** (2026)
+
 * `TWC 2023` **Dongzhu Xu**, Anfu Zhou, Yi Yang, Huadong Ma. [Efficient Environment Mapping Using a Commodity Millimeter-Wave Robot](https://ieeexplore.ieee.org/document/9997565). ***IEEE Transactions on Wireless Communication*** 22(7): 4858-4872 (2023)
 
 * `Ubicomp 2019` Huanhuan Zhang, Anfu Zhou, **Dongzhu Xu**, Shaoqing Xu, Xinyu Zhang, Huadong Ma. [Learning to Recognize Unmodified Lights with Invisible Features](https://dl.acm.org/doi/10.1145/3328938). ***ACM IMWUT/Ubicomp*** 3(2): 67:1-67:23 (2019)
